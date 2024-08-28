@@ -513,10 +513,10 @@ body{
     padding-top: 2px;
 }
 .lesson-heading.lesson-heading-9:before{
-    content: '9';
+    content: '8';
 }
 .lesson-heading.lesson-heading-3:before{
-    content: '3';
+    content: '6';
 }
 .lesson-heading.lesson-heading-1:before{
     content: '1';
